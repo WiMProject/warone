@@ -1,0 +1,7 @@
+{
+  "name": "Warteg Digital Pro | Enterprise Suite",
+  "description": "Full-featured modern dining ecosystem with role-based dashboards, AI insights, and real-time transaction management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
